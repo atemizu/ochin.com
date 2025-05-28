@@ -37,10 +37,8 @@
       <!-- 画像ファイルは同じディレクトリの images フォルダに置く -->
       <!-- src="images/sample.jpg" の部分を実際のファイル名に変更してください -->
       <img
-        src="![8A9D7B26-C229-496D-862C-3E746D4B44A0_1_105_c](https://github.com/user-attachments/assets/06dfa2c5-71c9-4e58-938a-15b6f05ff6c5)
-"
-        alt="![8A9D7B26-C229-496D-862C-3E746D4B44A0_1_105_c](https://github.com/user-attachments/assets/2acdaaf9-bafd-41d3-a288-2202c2e41b68)
-"
+        src="https://imgur.com/a/Cmy7dKu"
+        alt="サンプル画像"
         loading="lazy"
       />
     </div>
