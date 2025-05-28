@@ -39,7 +39,8 @@
       <img
         src="![8A9D7B26-C229-496D-862C-3E746D4B44A0_1_105_c](https://github.com/user-attachments/assets/06dfa2c5-71c9-4e58-938a-15b6f05ff6c5)
 "
-        alt="サンプル画像"
+        alt="![8A9D7B26-C229-496D-862C-3E746D4B44A0_1_105_c](https://github.com/user-attachments/assets/2acdaaf9-bafd-41d3-a288-2202c2e41b68)
+"
         loading="lazy"
       />
     </div>
