@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![IMG_0147](https://github.com/user-attachments/assets/d043f658-4bb9-4d82-a8c4-b7a785cff23b)<!DOCTYPE html>
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
@@ -36,8 +36,10 @@
     <div class="image-wrapper">
       <!-- 画像ファイルは同じディレクトリの images フォルダに置く -->
       <!-- src="images/sample.jpg" の部分を実際のファイル名に変更してください -->
-      <img
-        src="https://imgur.com/a/Cmy7dKu"
+      <img![IMG_0147](https://github.com/user-attachments/assets/b6246e7a-232c-4ceb-9ad1-5b2f207db261)
+
+        src="![Uploading IMG_0147.PNG…]()
+"
         alt="サンプル画像"
         loading="lazy"
       />
